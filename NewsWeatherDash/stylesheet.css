@@ -1,0 +1,37 @@
+html {
+  max-width: 50em;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  border-bottom: 2px solid #e42d40;
+}
+a:hover {
+  font-style: italic;
+}
+h1,
+h2,
+#news {
+  font-weight: 300;
+}
+#news {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+.title {
+  color: white;
+  width: 1200px;
+  height: auto;
+  padding: 15px;
+  background-color: #5383ec;
+  box-shadow: 2px 2px 2.5px grey;
+}
+.temp {
+  border: 1px;
+  background-color: #323841;
+  color: #fefefd;
+}
